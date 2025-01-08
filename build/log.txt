@@ -1,0 +1,40 @@
+automotive	4529861310.739000
+automotive	904962
+baby products	4541435362.251000
+baby products	907186
+beauty products	4533874327.849000
+beauty products	906417
+books	4457620825.953000
+books	890948
+clothing	4560302171.986000
+clothing	911487
+electronics	4497526631.039000
+electronics	903266
+footwear	4465574983.361000
+footwear	894424
+furniture	4503986763.162000
+furniture	900244
+gardening tools	4531880837.736000
+gardening tools	905841
+groceries	4466915230.970000
+groceries	895470
+health & wellness	4454082892.491000
+health & wellness	890475
+home appliances	4473888361.734000
+home appliances	895815
+jewelry	4463823670.790000
+jewelry	893980
+music instruments	4512294466.137000
+music instruments	902389
+office equipment	4463564947.381000
+office equipment	892370
+pet supplies	4488741730.382000
+pet supplies	896724
+sports equipment	4469387812.336000
+sports equipment	894287
+stationery	4481794912.395000
+stationery	898265
+toys	4462453654.119000
+toys	892741
+video games	4560108307.495000
+video games	913326
